@@ -126,7 +126,7 @@ more responsive._
 _I did find this extremely difficulty at first as when I pressed the submit button the my input sections would not 
 show an error. This resolved by just going back to the videos I have watched in the module section and remembered that  
 I had to apply the word required before closing my tag. This proved to be succesful as now my sections show error  
-"please fill in this field".
+"please fill in this field"._
 
 
 
