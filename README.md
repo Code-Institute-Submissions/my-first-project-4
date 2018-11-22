@@ -128,5 +128,35 @@ show an error. This resolved by just going back to the videos I have watched in 
 I had to apply the word required before closing my tag. This proved to be succesful as now my sections show error  
 "please fill in this field"._
 
+#### HTML Validator 
+
+_I used this to correct any errors I had in my syntax by going to "https://validator.w3.org/" and choosing the option
+validate by URL. This allowed me to have a code that ran smoothly because of no errors. I did find this difficult at
+the start as my code wouldn't function until I fixed the code. Whenever, I tried to fix the code I found it was always
+a typo somewhere which was causing me problems. However, the main issue was my divs were closed properly or I had 
+child elements closed after the parent. In the end fixing this helped me gain a better understanding of my code._
+
+#### CSS Validator 
+
+_The CSS Validator seemed similar to the HTML validator as above but this I did find easier. However, I feel css code can be little
+less confusing than the markup I was using in my index.html file. I believe this was maybe due to the fact I had so many    
+different sections classes and content areas. However, this was a benifit as it allowed me to make sure that I had used
+the css code correctly._
+
+#### GITHUB
+
+_I used github to commit my files so if I needed roll back to earlier stage and if I need to see where I have gone wrong it is
+easier this way. Using terminal on cloud9 I commited my files by first checking the status by entering command "git status" then 
+adding my files using git add . and then finally when I can clearly see they have been submitted I would then use "git push" this   
+allows my changes to be submitted so my site can be viewed online. However, to make this possible I had to first create
+a repository by going onto git hub using the link to be pasted into my terminal as stated earlier. Then once I had that
+online I went to my account section to click onto my project then go to the settings logo. I scrolled down to github pages
+and made sure source was master branch and save changes. This allowed my page to be viewed online.
+
+# Created and Edited by Michael Singh
+
+
+
+
 
 
