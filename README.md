@@ -151,7 +151,7 @@ adding my files using git add . and then finally when I can clearly see they hav
 allows my changes to be submitted so my site can be viewed online. However, to make this possible I had to first create
 a repository by going onto git hub using the link to be pasted into my terminal as stated earlier. Then once I had that
 online I went to my account section to click onto my project then go to the settings logo. I scrolled down to github pages
-and made sure source was master branch and save changes. This allowed my page to be viewed online.
+and made sure source was master branch and save changes. This allowed my page to be viewed online._
 
 # Created and Edited by Michael Singh
 
